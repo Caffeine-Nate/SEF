@@ -14,4 +14,8 @@ class Classifier
 	{
 		printf("train");
 	}
+		void predict()
+	{
+		printf("predict");
+	}
 };
